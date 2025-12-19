@@ -1,5 +1,21 @@
 {
+  "message": {
+    "en": "Add New Features and improve UI",
+    "th": "เพิ่มฟังก์ชั่นใหม่และปรับปรุง UI"
+  },
+  "bullets": {
+    "en": [
+      "New: support for patients whose national ID cards are not valid.",
+      "New: support new weighing scale.",
+      "Enhanced: UI and loading animation"
+   
+    ],
+    "th": [
+      "ใหม่: รองรับผู้ป่วยที่บัตรประชาชนไม่สามารถใช้งานได้",
+      "ใหม่: รองรับเครืองน้ำหนักรุ่นใหม่",
+      "ปรับปรุง: การแสดงผลและแอนิเมชั่น"
+    ]
+  },
   "version": "1.0.0.40",
-  "build_number": 2,
   "url": "https://github.com/nitchadew-test/vitalbagRelease/releases/download/1.0.0.40/app-release.apk"
 }
