@@ -1,21 +1,17 @@
 {
   "message": {
-    "en": "Add New Features and improve UI",
-    "th": "เพิ่มฟังก์ชั่นใหม่และปรับปรุง UI"
+    "en": "Fixed device's data transmission",
+    "th": "แก้ไขการส่งข้อมูลของอุปกรณ์"
   },
   "bullets": {
     "en": [
-      "New: support for patients whose national ID cards are not valid.",
-      "New: support new weighing scale.",
-      "Enhanced: UI and loading animation"
+      "Fixed: data transmission from blood glucose meter"
    
     ],
     "th": [
-      "ใหม่: รองรับผู้ป่วยที่บัตรประชาชนไม่สามารถใช้งานได้",
-      "ใหม่: รองรับเครื่องชั่งน้ำหนักรุ่นใหม่",
-      "ปรับปรุง: การแสดงผลและแอนิเมชั่น"
+      "แก้ไข: การส่งข้อมูลของเครื่องวัดน้ำตาลในเลือด"
     ]
   },
-  "version": "1.0.0.41",
-  "url": "https://github.com/nitchadew-test/vitalbagRelease/releases/download/1.0.0.41/app-release.apk"
+  "version": "1.0.0.42",
+  "url": "https://github.com/nitchadew-test/vitalbagRelease/releases/download/1.0.0.42/app-release.apk"
 }
