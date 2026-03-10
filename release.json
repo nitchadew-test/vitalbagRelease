@@ -1,17 +1,19 @@
 {
   "message": {
-    "en": "Fixed device's data transmission",
-    "th": "แก้ไขการส่งข้อมูลของอุปกรณ์"
+    "en": "Add the option to select devices to measure heart rate",
+    "th": "เพิ่มการเลือกอุปกรณ์เพื่อวัดค่าอัตราการเต้นของหัวใจ"
   },
   "bullets": {
     "en": [
-      "Fixed: data transmission from blood glucose meter"
+      "new: The option allows the blood pressure monitor to be used as a device to measure heart rate.",
+      "improve: UI at operation window, list of devices and more"
    
     ],
     "th": [
-      "แก้ไข: การส่งข้อมูลของเครื่องวัดน้ำตาลในเลือด"
+      "เพิ่ม: ตัวเลือกให้สามารถใช้เครื่องวัดความดันเป็นอุปกรณ์เพื่อวัดค่าอัตราการเต้นของหัวใจได้",
+      "ปรับปรุง: การแสดงผลของหน้าต่างการวัดค่า, รายชื่ออุปกรณ์ และอื่นๆ"
     ]
   },
-  "version": "1.0.0.42",
-  "url": "https://github.com/nitchadew-test/vitalbagRelease/releases/download/1.0.0.42/app-release.apk"
+  "version": "1.0.0.43",
+  "url": "https://github.com/nitchadew-test/vitalbagRelease/releases/download/1.0.0.43/app-release.apk"
 }
