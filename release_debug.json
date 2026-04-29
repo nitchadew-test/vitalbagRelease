@@ -1,19 +1,19 @@
 {
   "message": {
-    "en": "Add the option to select devices to measure heart rate (Debug)",
-    "th": "เพิ่มการเลือกอุปกรณ์เพื่อวัดค่าอัตราการเต้นของหัวใจ (Debug)"
+    "en": "Add Diagnosis Field and fix Blood Glucose Formula (Debug)",
+    "th": "เพิ่มช่องกรอกข้อมูลคำวินิฉัย และแก้ไขการคำนวนค่าน้ำตาล (Debug)"
   },
   "bullets": {
     "en": [
-      "new: The option allows the blood pressure monitor to be used as a device to measure heart rate.",
-      "improve: UI at operation window, list of devices and more"
+      "new: Add Diagnosis Field (Chief Complaint, Associated Symptoms, Examination Findings and Diagnosis)",
+      "improve: Fix Blood Glucose Formula"
    
     ],
     "th": [
-      "เพิ่ม: ตัวเลือกให้สามารถใช้เครื่องวัดความดันเป็นอุปกรณ์เพื่อวัดค่าอัตราการเต้นของหัวใจได้",
-      "ปรับปรุง: การแสดงผลของหน้าต่างการวัดค่า, รายชื่ออุปกรณ์ และอื่นๆ"
+      "เพิ่ม: ช่องกรอกข้อมูลคำวินิฉัย (อาการสำคัญ, อาการร่วมม, ผลตรวจ และ คำวินิฉัย)",
+      "ปรับปรุง: แก้ไขการคำนวนค่าน้ำตาลในเลือด"
     ]
   },
-  "version": "1.0.0.43",
-  "url": "https://github.com/nitchadew-test/vitalbagRelease/releases/download/1.0.0.43/app-release.apk"
+  "version": "1.0.0.44",
+  "url": "https://github.com/nitchadew-test/vitalbagRelease/releases/download/1.0.0.44/app-release.apk"
 }
