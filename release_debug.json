@@ -1,19 +1,19 @@
 {
   "message": {
-    "en": "Add Diagnosis Field and fix Blood Glucose Formula (Debug)",
-    "th": "เพิ่มช่องกรอกข้อมูลคำวินิฉัย และแก้ไขการคำนวนค่าน้ำตาล (Debug)"
+    "en": "Add Accu-Chek Blood Glucose",
+    "th": "เพิ่มเครื่องวัดน้ำตาล Accu-Chek"
   },
   "bullets": {
     "en": [
-      "new: Add Diagnosis Field (Chief Complaint, Associated Symptoms, Examination Findings and Diagnosis)",
-      "improve: Fix Blood Glucose Formula"
+      "new: Add Accu-Chek Blood Glucose",
+      "improve: Fix ble mapping"
    
     ],
     "th": [
-      "เพิ่ม: ช่องกรอกข้อมูลคำวินิฉัย (อาการสำคัญ, อาการร่วมม, ผลตรวจ และ คำวินิฉัย)",
-      "ปรับปรุง: แก้ไขการคำนวนค่าน้ำตาลในเลือด"
+      "เพิ่ม: เครื่องวัดน้ำตาล Accu-Chek",
+      "ปรับปรุง: แก้ไขการจับคู่ Bluetooth"
     ]
   },
-  "version": "1.0.0.44",
-  "url": "https://github.com/nitchadew-test/vitalbagRelease/releases/download/1.0.0.44/app-release.apk"
+  "version": "1.0.0.47",
+  "url": "https://github.com/nitchadew-test/vitalbagRelease/releases/download/1.0.0.47/app-release.apk"
 }
