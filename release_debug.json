@@ -1,19 +1,19 @@
 {
   "message": {
-    "en": "Add Accu-Chek Blood Glucose",
-    "th": "เพิ่มเครื่องวัดน้ำตาล Accu-Chek"
+    "en": "Update Telemedicine Endpoint",
+    "th": "อัพเดท Endpoint ของ Telemedicine"
   },
   "bullets": {
     "en": [
-      "new: Add Accu-Chek Blood Glucose",
-      "improve: Fix ble mapping"
+      "Update Telemedicine Endpoint",
+      "improve: Telemedicine Endpoint"
    
     ],
     "th": [
-      "เพิ่ม: เครื่องวัดน้ำตาล Accu-Chek",
-      "ปรับปรุง: แก้ไขการจับคู่ Bluetooth"
+      "เพิ่ม:  Endpoint ของ Telemedicine",
+      "ปรับปรุง: Endpoint ของ Te;emedicine"
     ]
   },
-  "version": "1.0.0.47",
-  "url": "https://github.com/nitchadew-test/vitalbagRelease/releases/download/1.0.0.47/app-release.apk"
+  "version": "1.0.0.48",
+  "url": "https://github.com/nitchadew-test/vitalbagRelease/releases/download/1.0.0.48/app-release.apk"
 }
